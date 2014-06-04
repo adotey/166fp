@@ -1,0 +1,4 @@
+*.o
+GapBufferDriver
+GapBufferAppendDriver
+GapBufferInsertDriver
